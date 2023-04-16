@@ -43,10 +43,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The project is bulid with the help of tutorials available online by performing code-along
+<br /><br />
 Movie database API and Youtube API have been used to reload movies everytime and play the trailer upon hovering 
+<br /><br />
 Kindly bear with the Limit of the Youtube API since it is free { sed lyf ;( }
-The files provided in the docs justify a failed attempt to be able to recreate the best feature of NETFLIX , hover - pop out - play due to lack of time and bombardment of midsems ,
+<br /><br />
+The files provided in the docs justify a failed attempt to be able to recreate the best feature of NETFLIX , hover - pop out - play  , due to lack of time and bombardment of midsems ,
+<br /><br />
 The hover effect was created but cant be implemented as its implementation would require changes in the javascript file INDEX.js which woul in turn steal off time from me !
+<br /><br />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
