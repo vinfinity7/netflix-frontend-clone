@@ -56,10 +56,8 @@ The hover effect was created but cant be implemented as its implementation would
 
 ### Built With
 
-* [![Javascript][js]][Javascript-url]
-* [![CSS][CSS]][css-url]
-* [![HTML][HTML]][html-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
