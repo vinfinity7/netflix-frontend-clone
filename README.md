@@ -56,7 +56,19 @@ The hover effect was created but cant be implemented as its implementation would
 
 ### Built With
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+<p align="center">            
+            <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg"
+            alt="css" width="100" height="100" /> </a>
+            
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="100" height="100" /> </a>
+            
+            <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg"
+            alt="html" width="100" height="100" /> </a>
+   </p>
 
 
 
