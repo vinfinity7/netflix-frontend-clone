@@ -15,9 +15,7 @@
     <br />
     <br />
   
-    ·
-      <a href="https://github.com/vinfity7/netflix-frontend-clone/issues">Report Bug</a>
-    ·
+   
 
   </p>
 </div>
