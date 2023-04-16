@@ -14,7 +14,7 @@
       <a href="https://github.com/vinfity7/netflix-frontend-clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+  
     ·
       <a href="https://github.com/vinfity7/netflix-frontend-clone/issues">Report Bug</a>
     ·
@@ -56,8 +56,8 @@ The hover effect was created but cant be implemented as its implementation would
 
 ### Built With
 
-<p align="center">            
-            <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"> <img
+<p align="center"><b> HTML CSS JAVASCRIPT </b> </p>            
+<!--             <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg"
             alt="css" width="100" height="100" /> </a>
             
@@ -68,7 +68,7 @@ The hover effect was created but cant be implemented as its implementation would
             <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg"
             alt="html" width="100" height="100" /> </a>
-   </p>
+   </p></p></p> -->
 
 
 
