@@ -27,12 +27,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      About The Project
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li>Built With</li>
       </ul>
       <ul>
-        <li><a href="#key-feats">Key Features</a></li>
+        <li>Roadmap</li>
       </ul>
     </li>
   </ol>
@@ -48,12 +48,14 @@ Movie database API and Youtube API have been used to reload movies everytime and
 <br /><br />
 Kindly bear with the Limit of the Youtube API since it is free { sed lyf ;( }
 <br /><br />
-The files provided in the docs justify a failed attempt to be able to recreate the best feature of NETFLIX , hover - pop out - play  , due to lack of time and bombardment of midsems ,
+The trailer of the movie is supposed to to play upon hover , you can check by seeing the api call incase limit exceeds
 <br /><br />
-The hover effect was created but cant be implemented as its implementation would require changes in the javascript file INDEX.js which woul in turn steal off time from me !
+The files provided in the docs justify an incomplete attempt to be able to recreate the best feature of NETFLIX , hover - pop out - play  , due to lack of time and bombardment of midsems ,
+<br /><br />
+The hover effect was created and code was commented out as it can't be implemented as its integration would require changes in the javascript file INDEX.js which would in turn steal off time from me !
 <br /><br />
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -75,7 +77,6 @@ The hover effect was created but cant be implemented as its implementation would
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -87,7 +88,6 @@ The hover effect was created but cant be implemented as its implementation would
 - [ ] During Midsems
  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -97,9 +97,9 @@ The hover effect was created but cant be implemented as its implementation would
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@sakzzham](https://twitter.com/sakzzham) - saksham.misra.ece22@itbhu.ac.in
+Your Name - [@sakzzham](https://instagram.com/sakzzham) - saksham.misra.ece22@itbhu.ac.in
 
 Project Link: [https://github.com/vinfinity7/netflix-frontend-clone](https://github.com/vinfinity7/netflix-frontend-clone)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
