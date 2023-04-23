@@ -11,7 +11,7 @@
   <p align="center">
     This project is a clone of the famous website NETFLIX 
     <br />
-      ![](https://komarev.com/ghpvc/?username=vinfinity7&style=flat-square)
+      
     <br />
     <br />
   
