@@ -11,13 +11,7 @@
   <p align="center">
     This project is a clone of the famous website NETFLIX 
     <br />
-      
-    <br />
-    <br />
-  
-   
-
-  </p>
+   </p>
 </div>
 
 
