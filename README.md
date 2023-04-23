@@ -11,7 +11,7 @@
   <p align="center">
     This project is a clone of the famous website NETFLIX 
     <br />
-      <a href="https://github.com/vinfity7/netflix-frontend-clone"><strong>Explore the docs »</strong></a>
+      ![](https://komarev.com/ghpvc/?username=vinfinity7&style=flat-square)
     <br />
     <br />
   
