@@ -96,7 +96,7 @@ The hover effect was created and code was commented out as it can't be implement
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@sakzzham](https://instagram.com/sakzzham) - saksham.misra.ece22@itbhu.ac.in
+Your Name - [@saksham_misra](https://www.linkedin.com/in/saksham-misra-79334426b/) - saksham.misra.ece22@itbhu.ac.in
 
 Project Link: [https://github.com/vinfinity7/netflix-frontend-clone](https://github.com/vinfinity7/netflix-frontend-clone)
 
