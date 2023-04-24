@@ -12,6 +12,11 @@
     This project is a clone of the famous website NETFLIX 
     <br />
    </p>
+   <div align="center">
+<img src="https://komarev.com/ghpvc/?username=vinfinity7&&style=flat-square" align="center" />
+&nbsp;
+</div>
+
 </div>
 
 
@@ -55,7 +60,7 @@ The hover effect was created and code was commented out as it can't be implement
 
 ### Built With
 
-<p align="center"><b> HTML CSS JAVASCRIPT </b> </p>            
+<p align="center"><b> HTML        CSS       JAVASCRIPT</b> </p>            
 <!--             <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg"
             alt="css" width="100" height="100" /> </a>
